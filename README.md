@@ -7,10 +7,6 @@ Main inspiration taken from: https://github.com/jessamynsmith/flask-google-sheet
 
 ## Setup
 
-git clone this repo, e.g.:
-
-    git clone git@ssh.code.roche.com:pdex-oi-group/applications/flask-gsheet-api.git
-
 Create a virtualenv using Python 3 and install dependencies. I recommend getting python3 using a package manager (homebrew on OSX), then installing [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html) and [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/install.html#basic-installation) to that python. NOTE! You must change 'path/to/python3'
 to be the actual path to python3 on your system.
 
