@@ -1,0 +1,6 @@
+[APICONFIG]
+GooglePrivateKey = -----BEGIN PRIVATE KEY-----\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n-----END PRIVATE KEY-----\n
+GoogleEmail = xxxxxx@xxxxxxxxxxx.iam.gserviceaccount.com
+SpreadsheetID = 11d4yUKv8inW-mcklUnpEF2X0hLCEM6T50GyRbyzSntc
+RangeName = Sheet1!A1:B6
+SheetName = Sheet1
